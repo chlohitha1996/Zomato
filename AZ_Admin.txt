@@ -1,0 +1,22 @@
+USer1 and USer3 only , -- Subnet to vnet1
+USer1 --Reader role to Vnet
+
+USer1 and USer3 only , -jobtitle
+USer1 , user 2 user3--job location
+
+Group1 only, Group 1 and Group2 only
+
+You need to ensure that records created in the contoso.com zone are resolvable from the internet.
+What should you do?
+D. Modify the NS records in the DNS domain registrar.
+
+You need to delegate a subdomain named research.adatum.com to a different DNS server in Azure.
+A. Create an NS record named research in the adatum.com zone. 
+
+Network Contributer, Owner role, Reader Role - Traffic Anayalsis
+
+UpdateDomainCount property?- single Availability set: 20
+single Availability set: 20
+
+You purchase 10 Azure AD Premium P2 licenses for the tenant. --> A. From the Licenses blade of Azure AD, assign a license 
+You need to assign the User administrator administrative role to AdminUser1.  --> B. From the Directory role blade, modify the directory role 

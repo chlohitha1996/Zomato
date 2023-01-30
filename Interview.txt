@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=Ipt7J1MFWPo&list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
+
+ difference between comparable and comparator and difference between arraylist and vector
+ . Difference between array and arraylist in java  include eight points namely Resizable,
+ Performance, Traversal ,Primitives , Length , Type-Safety, Adding elements , Multi-dimensional.
